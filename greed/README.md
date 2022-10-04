@@ -17,8 +17,6 @@ Start the program by running the following command.
 1. The game continues until the player closes the window.
 
 
-![**Interface**](greed_image)
-
 ## Authors
 
 Teddy Tjoe - jethe90@gmail.com
